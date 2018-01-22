@@ -1,0 +1,3561 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{none/global/}
+  \entry{Haling:1964}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=HRK}{%
+         family={Haling},
+         familyi={H\bibinitperiod},
+         given={R.\bibnamedelima K.},
+         giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{HRK1}
+    \strng{fullhash}{HRK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Amer. Nucl. Soc. Topical Meeting, Nucl. Performance of
+  Power-Reactor Cores}
+    \field{title}{Operational strategy for maintaining an optimum power
+  distribution throughout life}
+    \list{location}{1}{%
+      {San Francisco, CA}%
+    }
+    \field{year}{1964}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Wall:1965}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WI}{%
+         family={Wall},
+         familyi={W\bibinitperiod},
+         given={Ian},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=FH}{%
+         family={Fenech},
+         familyi={F\bibinitperiod},
+         given={Henri},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{WIFH1}
+    \strng{fullhash}{WIFH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{285 \bibrangedash  297}
+    \field{title}{The Application of Dynamic Programing to Fuel Management
+  Optimization}
+    \field{volume}{22}
+    \field{journaltitle}{Nucl. Sci. and Eng.}
+    \field{year}{1965}
+  \endentry
+
+  \entry{Sauar:1971}{article}{}
+    \name{author}{1}{}{%
+      {{hash=STO}{%
+         family={Sauar},
+         familyi={S\bibinitperiod},
+         given={T.\bibnamedelima O.},
+         giveni={T\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{STO1}
+    \strng{fullhash}{STO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{274 \bibrangedash  283}
+    \field{title}{Application of Linear Programming to In-Core Fuel Management
+  Optimization in Light Water Reactors}
+    \field{volume}{46}
+    \field{journaltitle}{Nucl. Sci. and Eng.}
+    \field{year}{1971}
+  \endentry
+
+  \entry{Miller:1975}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MJS}{%
+         family={Miller},
+         familyi={M\bibinitperiod},
+         given={J.\bibnamedelima S.},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=END}{%
+         family={Eckhoff},
+         familyi={E\bibinitperiod},
+         given={N.\bibnamedelima D.},
+         giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; VHTR}
+    \strng{namehash}{MJSEND1}
+    \strng{fullhash}{MJSEND1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{9-10}
+    \field{pages}{649 \bibrangedash  656}
+    \field{title}{A linear programming fuel management model for the {HTGR}}
+    \field{volume}{2}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{1975}
+  \endentry
+
+  \entry{Motoda:1975}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MH}{%
+         family={Motoda},
+         familyi={M\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Herczeg},
+         familyi={H\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sesonske},
+         familyi={S\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; BWR}
+    \strng{namehash}{MHHJSA1}
+    \strng{fullhash}{MHHJSA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{477 \bibrangedash  496}
+    \field{title}{Optimization of Refueling Schedule for Light-Water Reactors}
+    \field{volume}{25}
+    \field{journaltitle}{Nucl. Technology}
+    \field{year}{1975}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Comes:1988}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CSA}{%
+         family={Comes},
+         familyi={C\bibinitperiod},
+         given={Scott\bibnamedelima A.},
+         giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=TPJ}{%
+         family={Turinsky},
+         familyi={T\bibinitperiod},
+         given={Paul\bibnamedelima J.},
+         giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{CSATPJ1}
+    \strng{fullhash}{CSATPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{31\bibrangedash 48}
+    \field{title}{Out-of-core Fuel Cycle Optimization for Nonequilibrium
+  Cycles}
+    \field{volume}{83}
+    \field{journaltitle}{Nucl. Technology}
+    \field{year}{1988}
+  \endentry
+
+  \entry{Okafor:1988}{article}{}
+    \name{author}{2}{}{%
+      {{hash=OKC}{%
+         family={Okafor},
+         familyi={O\bibinitperiod},
+         given={Kenneth\bibnamedelima C.},
+         giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=AT}{%
+         family={Aldemir},
+         familyi={A\bibinitperiod},
+         given={Tunc},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{OKCAT1}
+    \strng{fullhash}{OKCAT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{381 \bibrangedash  392}
+    \field{title}{Construction of linear empirical core models for pressurized
+  water reactor in-core fuel management}
+    \field{volume}{81}
+    \field{journaltitle}{Nucl. Technology}
+    \field{year}{1988}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Stillman:1989}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SJA}{%
+         family={Stillman},
+         familyi={S\bibinitperiod},
+         given={J.\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=CYA}{%
+         family={Chao},
+         familyi={C\bibinitperiod},
+         given={Y.\bibnamedelima A.},
+         giveni={Y\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=DTJ}{%
+         family={Downar},
+         familyi={D\bibinitperiod},
+         given={T.\bibnamedelima J.},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{SJACYADTJ1}
+    \strng{fullhash}{SJACYADTJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{321 \bibrangedash  333}
+    \field{title}{The optimum fuel and power distribution for a pressurized
+  water reactor burnup cycle}
+    \field{volume}{103}
+    \field{journaltitle}{Nucl. Sci. and Eng.}
+    \field{year}{1989}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Burte:1993}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BDP}{%
+         family={Burte},
+         familyi={B\bibinitperiod},
+         given={D.\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=VSG}{%
+         family={Vaidya},
+         familyi={V\bibinitperiod},
+         given={S.\bibnamedelima G.},
+         giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; BWR}
+    \strng{namehash}{BDPVSG1}
+    \strng{fullhash}{BDPVSG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{237 \bibrangedash  249}
+    \field{title}{Parametrization for optimization of reload patterns for
+  boiling water reactors}
+    \field{volume}{20}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{1993}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Mahlers:1994}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MYP}{%
+         family={Mahlers},
+         familyi={M\bibinitperiod},
+         given={Y.\bibnamedelima P.},
+         giveni={Y\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{MYP1}
+    \strng{fullhash}{MYP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{223 \bibrangedash  227}
+    \field{title}{Core loading pattern optimization for pressurized water
+  reactors}
+    \field{volume}{21}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{1994}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Smuc:1994}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ST}{%
+         family={{\v S}muc},
+         familyi={{\v S}\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Pevec},
+         familyi={P\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Petrovi{\'c}},
+         familyi={P\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{STPDPB1}
+    \strng{fullhash}{STPDPB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{6}
+    \field{pages}{325\bibrangedash 336}
+    \field{title}{Annealing strategies for loading pattern optimization}
+    \field{volume}{21}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{1994}
+  \endentry
+
+  \entry{Feltus:1995}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FMA}{%
+         family={Feltus},
+         familyi={F\bibinitperiod},
+         given={Madeline\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{FMA1}
+    \strng{fullhash}{FMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{5}
+    \field{pages}{267 \bibrangedash  274}
+    \field{title}{An extended discharge burnup optimization technique using
+  Penn State's Fuel Management Package and {CASMO}-3/{SIMULATE}-3}
+    \field{volume}{22}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{1995}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Stevens:1995}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SJG}{%
+         family={Stevens},
+         familyi={S\bibinitperiod},
+         given={J.\bibnamedelima G.},
+         giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=SKS}{%
+         family={Smith},
+         familyi={S\bibinitperiod},
+         given={K.\bibnamedelima S.},
+         giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=RKR}{%
+         family={Rempe},
+         familyi={R\bibinitperiod},
+         given={K.\bibnamedelima R.},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=DTJ}{%
+         family={Downar},
+         familyi={D\bibinitperiod},
+         given={T.\bibnamedelima J.},
+         giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{SJGSKSRKR+1}
+    \strng{fullhash}{SJGSKSRKRDTJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{67 \bibrangedash  88}
+    \field{title}{Optimization of Pressurized Water Reactor Shuffling by
+  Simulated Annealing with Heuristics}
+    \field{volume}{121}
+    \field{journaltitle}{Nucl. Sci. and Eng.}
+    \field{year}{1995}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{DeChaine:1996}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DMD}{%
+         family={DeChaine},
+         familyi={D\bibinitperiod},
+         given={Michael\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=FMA}{%
+         family={Feltus},
+         familyi={F\bibinitperiod},
+         given={Madeline\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; Fuel Cycle Analysis}
+    \strng{namehash}{DMDFMA1}
+    \strng{fullhash}{DMDFMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{188 \bibrangedash  196}
+    \field{title}{Fuel Management Optimization Using Genetic Algorithms and
+  Expert Knowledge}
+    \field{volume}{124}
+    \field{journaltitle}{Nucl. Sci. and Eng.}
+    \field{year}{1996}
+  \endentry
+
+  \entry{Axmann:1997}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AJK}{%
+         family={Axmann},
+         familyi={A\bibinitperiod},
+         given={J.\bibnamedelima K.},
+         giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{AJK1}
+    \strng{fullhash}{AJK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{276 \bibrangedash  290}
+    \field{title}{Parallel Adaptive Evolutionary Algorithms for Pressurized
+  Water Reactor Reload Pattern Optimizations}
+    \field{volume}{119}
+    \field{journaltitle}{Nucl. Technology}
+    \field{year}{1997}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Kim:1997}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KTK}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={T.\bibnamedelima K.},
+         giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=KCH}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={C.\bibnamedelima H.},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{KTKKCH1}
+    \strng{fullhash}{KTKKCH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{346 \bibrangedash  357}
+    \field{title}{Mixed Integer Programming for Pressurized Water Reactor
+  Fuel-Loading-Pattern Optimization}
+    \field{volume}{127}
+    \field{journaltitle}{Nucl. Sci. and Eng.}
+    \field{year}{1997}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Mahlers:1997}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MYP}{%
+         family={Mahlers},
+         familyi={M\bibinitperiod},
+         given={Y.\bibnamedelima P.},
+         giveni={Y\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{MYP1}
+    \strng{fullhash}{MYP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{7}
+    \field{pages}{509 \bibrangedash  514}
+    \field{title}{Core loading pattern optimization for research reactors}
+    \field{volume}{24}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{1997}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Yamamoto:1997}{article}{}
+    \name{author}{1}{}{%
+      {{hash=YA}{%
+         family={Yamamoto},
+         familyi={Y\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{YA1}
+    \strng{fullhash}{YA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{339 \bibrangedash  347}
+    \field{title}{A quantitative comparison of loading pattern optimization
+  methods for in-core fuel management of {PWR}}
+    \field{volume}{34}
+    \field{journaltitle}{J. of Nucl. Sci. and Technology}
+    \field{year}{1997}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Lin:1998}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LC}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=YJI}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={J.-I.},
+         giveni={J\bibinitperiod-I\bibinitperiod},
+      }}%
+      {{hash=LKJ}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={K.-J.},
+         giveni={K\bibinitperiod-J\bibinitperiod},
+      }}%
+      {{hash=WZD}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Z.-D.},
+         giveni={Z\bibinitperiod-D\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{LCYJILKJ+1}
+    \strng{fullhash}{LCYJILKJWZD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{61 \bibrangedash  71}
+    \field{title}{Pressurized Water Reactor Loading Pattern Design using the
+  Simple Tabu Search}
+    \field{volume}{129}
+    \field{journaltitle}{Nucl. Sci. and Eng.}
+    \field{year}{1998}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Chapot:1999}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CJLC}{%
+         family={Chapot},
+         familyi={C\bibinitperiod},
+         given={Jorge Luiz\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+      }}%
+      {{hash=CDSF}{%
+         family={Carvalho Da\bibnamedelima Silva},
+         familyi={C\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+         given={Fernando},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Schirru},
+         familyi={S\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{CJLCCDSFSR1}
+    \strng{fullhash}{CJLCCDSFSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{7}
+    \field{pages}{641 \bibrangedash  655}
+    \field{title}{A new approach to the use of genetic algorithms to solve the
+  pressurized water reactor's fuel management optimization problem}
+    \field{volume}{26}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{1999}
+  \endentry
+
+  \entry{Francois:1999}{article}{}
+    \name{author}{5}{}{%
+      {{hash=FJL}{%
+         family={Fran{\c c}ois},
+         familyi={F\bibinitperiod},
+         given={J.\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=MDCC}{%
+         family={Mart{\'\i}n Del\bibnamedelima Campo},
+         familyi={M\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CCC}{%
+         family={Cort{\'e}s},
+         familyi={C\bibinitperiod},
+         given={C.\bibnamedelima C.},
+         giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=RE}{%
+         family={Ram{\'\i}rez},
+         familyi={R\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=AJ}{%
+         family={Arellano},
+         familyi={A\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; BWR}
+    \strng{namehash}{FJLMDCCCCC+1}
+    \strng{fullhash}{FJLMDCCCCCREAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{13 \bibrangedash  21}
+    \field{title}{Development of an automated system for fuel reload patterns
+  design}
+    \field{volume}{193}
+    \field{journaltitle}{Nucl. Eng. and Design}
+    \field{year}{1999}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Moore:1999}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MBR}{%
+         family={Moore},
+         familyi={M\bibinitperiod},
+         given={B.\bibnamedelima R.},
+         giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=TPJ}{%
+         family={Turinsky},
+         familyi={T\bibinitperiod},
+         given={Paul\bibnamedelima J.},
+         giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=KAA}{%
+         family={Karve},
+         familyi={K\bibinitperiod},
+         given={A.\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; BWR}
+    \strng{namehash}{MBRTPJKAA1}
+    \strng{fullhash}{MBRTPJKAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{153\bibrangedash 168}
+    \field{title}{{FORMOSA}-{B}: A boiling water reactor in-core fuel
+  management optimization package}
+    \field{volume}{126}
+    \field{journaltitle}{Nucl. Technology}
+    \field{year}{1999}
+  \endentry
+
+  \entry{Toshinsky:1999}{article}{}
+    \name{author}{3}{}{%
+      {{hash=TVG}{%
+         family={Toshinsky},
+         familyi={T\bibinitperiod},
+         given={V.\bibnamedelima G.},
+         giveni={V\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Sekimoto},
+         familyi={S\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=TGI}{%
+         family={Toshinsky},
+         familyi={T\bibinitperiod},
+         given={G.\bibnamedelima I.},
+         giveni={G\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; LMFR}
+    \strng{namehash}{TVGSHTGI1}
+    \strng{fullhash}{TVGSHTGI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{9}
+    \field{pages}{783 \bibrangedash  802}
+    \field{title}{Multiobjective fuel management optimization for
+  self-fuel-providing {LMFBR} using genetic algorithms}
+    \field{volume}{26}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{1999}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Karve:2000}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KAA}{%
+         family={Karve},
+         familyi={K\bibinitperiod},
+         given={A.\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=TPJ}{%
+         family={Turinsky},
+         familyi={T\bibinitperiod},
+         given={Paul\bibnamedelima J.},
+         giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; BWR}
+    \strng{namehash}{KAATPJ1}
+    \strng{fullhash}{KAATPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{48\bibrangedash 68}
+    \field{title}{{FORMOSA-B}: a boiling water reactor in-core fuel management
+  optimization package {II}}
+    \field{volume}{131}
+    \field{journaltitle}{Nucl. Technology}
+    \field{year}{2000}
+  \endentry
+
+  \entry{Yamamoto:2000}{article}{}
+    \name{author}{2}{}{%
+      {{hash=YA}{%
+         family={Yamamoto},
+         familyi={Y\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HH}{%
+         family={Hashimoto},
+         familyi={H\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{YAHH1}
+    \strng{fullhash}{YAHH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{247 \bibrangedash  257}
+    \field{title}{Application of Temperature Parallel Simulated Annealing to
+  Loading Pattern Optimizations of Pressurized Water Reactors}
+    \field{volume}{136}
+    \field{journaltitle}{Nucl. Sci. and Eng.}
+    \field{year}{2000}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Hongchun:2001}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HW}{%
+         family={Hongchun},
+         familyi={H\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{HW1}
+    \strng{fullhash}{HW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{13}
+    \field{pages}{1329 \bibrangedash  1341}
+    \field{title}{Pressurized water reactor reloading optimization using
+  genetic algorithms}
+    \field{volume}{28}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2001}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Jagawa:2001}{article}{}
+    \name{author}{3}{}{%
+      {{hash=JS}{%
+         family={Jagawa},
+         familyi={J\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=YT}{%
+         family={Yoshii},
+         familyi={Y\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=FA}{%
+         family={Fukao},
+         familyi={F\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; BWR}
+    \strng{namehash}{JSYTFA1}
+    \strng{fullhash}{JSYTFA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{67 \bibrangedash  77}
+    \field{title}{Boiling Water Reactor Loading Pattern Optimization Using
+  Simple Linear Perturbation and Modified Tabu Search Methods}
+    \field{volume}{138}
+    \field{journaltitle}{Nucl. Sci. and Eng.}
+    \field{year}{2001}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Lee:2001}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LHC}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={H.\bibnamedelima C.},
+         giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=SHJ}{%
+         family={Shim},
+         familyi={S\bibinitperiod},
+         given={H.\bibnamedelima J.},
+         giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=KCH}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={C.\bibnamedelima H.},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{LHCSHJKCH1}
+    \strng{fullhash}{LHCSHJKCH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{39 \bibrangedash  50}
+    \field{title}{Parallel Computing Adaptive Simulated Annealing Scheme for
+  Fuel Assembly Loading Pattern Optimization in {PWR}s}
+    \field{volume}{135}
+    \field{journaltitle}{Nucl. Technology}
+    \field{year}{2001}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Kobayashi:2002}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KY}{%
+         family={Kobayashi},
+         familyi={K\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=AE}{%
+         family={Aiyoshi},
+         familyi={A\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; BWR}
+    \strng{namehash}{KYAE1}
+    \strng{fullhash}{KYAE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{119 \bibrangedash  139}
+    \field{title}{Optimization of Boiling Water Reactor Loading Pattern Using
+  Two-Stage Genetic Algorithm}
+    \field{volume}{142}
+    \field{journaltitle}{Nucl. Sci. and Eng.}
+    \field{year}{2002}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Machado:2002}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ML}{%
+         family={Machado},
+         familyi={M\bibinitperiod},
+         given={Liana},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Schirru},
+         familyi={S\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{MLSR1}
+    \strng{fullhash}{MLSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{12}
+    \field{pages}{1455 \bibrangedash  1470}
+    \field{title}{The {A}nt-{Q} algorithm applied to the nuclear reload
+  problem}
+    \field{volume}{29}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2002}
+  \endentry
+
+  \entry{Erdoan:2003}{article}{}
+    \name{author}{2}{}{%
+      {{hash=EA}{%
+         family={Erdoan},
+         familyi={E\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Ge{\c c}kinli},
+         familyi={G\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{EAGM1}
+    \strng{fullhash}{EAGM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{35 \bibrangedash  53}
+    \field{title}{A {PWR} reload optimisation code ({XC}ore) using artificial
+  neural networks and genetic algorithms}
+    \field{volume}{30}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Faria:2003}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FEF}{%
+         family={Faria},
+         familyi={F\bibinitperiod},
+         given={Eduardo\bibnamedelima Fernandes},
+         giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=PC}{%
+         family={Pereira},
+         familyi={P\bibinitperiod},
+         given={Claubia},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{FEFPC1}
+    \strng{fullhash}{FEFPC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{5}
+    \field{pages}{603\bibrangedash 613}
+    \field{title}{Nuclear fuel loading pattern optimisation using a neural
+  network}
+    \field{volume}{30}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Sadighi:2003}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SM}{%
+         family={Sadighi},
+         familyi={S\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Setayeshi},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SAA}{%
+         family={Salehi},
+         familyi={S\bibinitperiod},
+         given={A.\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{SMSSSAA1}
+    \strng{fullhash}{SMSSSAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{511}
+    \field{title}{{PWR} fuel management optimization using neural networks}
+    \field{volume}{30}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Yamamoto:2003}{article}{}
+    \name{author}{1}{}{%
+      {{hash=YA}{%
+         family={Yamamoto},
+         familyi={Y\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization;}
+    \strng{namehash}{YA1}
+    \strng{fullhash}{YA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{63 \bibrangedash  75}
+    \field{title}{Application of Neural Network for Loading Pattern Screening
+  of In-Core Optimization Calculations}
+    \field{volume}{144}
+    \field{journaltitle}{Nucl. Technology}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Alim:2004}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=AF}{%
+         family={Alim},
+         familyi={A\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=IK}{%
+         family={Ivanov},
+         familyi={I\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{AFIK1}
+    \strng{fullhash}{AFIK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{597 \bibrangedash  598}
+    \field{title}{Genetic Algorithm Development for In-Core Fuel Management}
+    \field{volume}{90}
+    \list{location}{1}{%
+      {Pittsburgh, PA}%
+    }
+    \field{year}{2004}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Alim:2004a}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=AF}{%
+         family={Alim},
+         familyi={A\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=IK}{%
+         family={Ivanov},
+         familyi={I\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{AFIK1}
+    \strng{fullhash}{AFIK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{756 \bibrangedash  757}
+    \field{title}{Modeling Genetic Algorithm Operators for Loading Pattern
+  Optimization}
+    \field{volume}{91}
+    \list{location}{1}{%
+      {Washington, DC}%
+    }
+    \field{year}{2004}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Guler:2004}{article}{}
+    \name{author}{7}{}{%
+      {{hash=GC}{%
+         family={Guler},
+         familyi={G\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Levine},
+         familyi={L\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=IK}{%
+         family={Ivanov},
+         familyi={I\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Svarny},
+         familyi={S\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KV}{%
+         family={Krysl},
+         familyi={K\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Mikolas},
+         familyi={M\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Sustek},
+         familyi={S\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{GCLSIK+1}
+    \strng{fullhash}{GCLSIKSJKVMPSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{7}
+    \field{pages}{747 \bibrangedash  772}
+    \field{title}{Development of the {VVER} core loading optimization system}
+    \field{volume}{31}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2004}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Ortiz:2004}{article}{}
+    \name{author}{2}{}{%
+      {{hash=OJJ}{%
+         family={Ortiz},
+         familyi={O\bibinitperiod},
+         given={Juan\bibnamedelima Jos{\'e}},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RI}{%
+         family={Requena},
+         familyi={R\bibinitperiod},
+         given={Ignacio},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; BWR}
+    \strng{namehash}{OJJRI1}
+    \strng{fullhash}{OJJRI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{7}
+    \field{pages}{789\bibrangedash 803}
+    \field{title}{Using a multi-state recurrent neural network to optimize
+  loading patterns in {BWR}s}
+    \field{volume}{31}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2004}
+  \endentry
+
+  \entry{Yamamoto:2004}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=YA}{%
+         family={Yamamoto},
+         familyi={Y\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Sugimura},
+         familyi={S\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=KY}{%
+         family={Kitamura},
+         familyi={K\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=YY}{%
+         family={Yamane},
+         familyi={Y\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{YASEKY+1}
+    \strng{fullhash}{YASEKYYY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{766 \bibrangedash  767}
+    \field{title}{Simultaneous In-Core Optimization of {PWR} Tandem Cycles}
+    \field{volume}{91}
+    \list{location}{1}{%
+      {Washington, DC}%
+    }
+    \field{year}{2004}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Ziver:2004}{article}{}
+    \name{author}{6}{}{%
+      {{hash=ZAK}{%
+         family={Ziver},
+         familyi={Z\bibinitperiod},
+         given={A.\bibnamedelima K.},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=PCC}{%
+         family={Pain},
+         familyi={P\bibinitperiod},
+         given={C.\bibnamedelima C.},
+         giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=CJN}{%
+         family={Carter},
+         familyi={C\bibinitperiod},
+         given={J.\bibnamedelima N.},
+         giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=dOCRE}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Oliveira},
+         familyi={O\bibinitperiod},
+         given={C.\bibnamedelima R.\bibnamedelima E.},
+         giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  E\bibinitperiod},
+      }}%
+      {{hash=GAJH}{%
+         family={Goddard},
+         familyi={G\bibinitperiod},
+         given={A.\bibnamedelima J.\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim
+  H\bibinitperiod},
+      }}%
+      {{hash=ORS}{%
+         family={Overton},
+         familyi={O\bibinitperiod},
+         given={R.\bibnamedelima S.},
+         giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; GFR}
+    \strng{namehash}{ZAKPCCCJN+1}
+    \strng{fullhash}{ZAKPCCCJNOCREdGAJHORS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{431 \bibrangedash  457}
+    \field{title}{Genetic algorithms and artificial neural networks for loading
+  pattern optimisation of advanced gas-cooled reactors}
+    \field{volume}{31}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2004}
+  \endentry
+
+  \entry{Alim:2005}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=AF}{%
+         family={Alim},
+         familyi={A\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=IK}{%
+         family={Ivanov},
+         familyi={I\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{AFIK1}
+    \strng{fullhash}{AFIK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{624 \bibrangedash  625}
+    \field{title}{Heuristic Rules Embedded Genetic Algorithm for Loading
+  Pattern Optimization}
+    \field{volume}{92}
+    \list{location}{1}{%
+      {San Diego, CA}%
+    }
+    \field{year}{2005}
+  \endentry
+
+  \entry{Francois:2005}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=FJL}{%
+         family={Fran{\c c}ois},
+         familyi={F\bibinitperiod},
+         given={J.\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=MDCC}{%
+         family={Mart{\'\i}n Del\bibnamedelima Campo},
+         familyi={M\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MLB}{%
+         family={Morales},
+         familyi={M\bibinitperiod},
+         given={L.\bibnamedelima B.},
+         giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=PMA}{%
+         family={Palomera},
+         familyi={P\bibinitperiod},
+         given={M.\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization; BWR}
+    \strng{namehash}{FJLMDCCMLB+1}
+    \strng{fullhash}{FJLMDCCMLBPMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{615 \bibrangedash  617}
+    \field{title}{{BWR} Fuel Lattice Optimization Using Scatter Search}
+    \field{volume}{92}
+    \list{location}{1}{%
+      {San Diego, CA}%
+    }
+    \field{year}{2005}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Keller:2005}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=KPM}{%
+         family={Keller},
+         familyi={K\bibinitperiod},
+         given={Paul\bibnamedelima M.},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{KPM1}
+    \strng{fullhash}{KPM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{610 \bibrangedash  611}
+    \field{title}{Adaptively Constrained Multiobjective Genetic Algorithms for
+  Incore Fuel Management Optimization}
+    \field{volume}{92}
+    \list{location}{1}{%
+      {San Diego, CA}%
+    }
+    \field{year}{2005}
+  \endentry
+
+  \entry{Do:2006}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=DQB}{%
+         family={Do},
+         familyi={D\bibinitperiod},
+         given={Q.\bibnamedelima B.},
+         giveni={Q\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=RG}{%
+         family={Roh},
+         familyi={R\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Choi},
+         familyi={C\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization; CANDU}
+    \strng{namehash}{DQBRGCH1}
+    \strng{fullhash}{DQBRGCH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{388 \bibrangedash  389}
+    \field{title}{Optimization of a Refueling Simulation for a {CANDU} Reactor
+  by Using an Evolutionary Algorithm}
+    \field{volume}{94}
+    \list{location}{1}{%
+      {Reno, NV}%
+    }
+    \field{year}{2006}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Wang:2006}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=WT}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=XZ}{%
+         family={Xie},
+         familyi={X\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{WTXZ1}
+    \strng{fullhash}{WTXZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{390 \bibrangedash  391}
+    \field{title}{A Hybrid Optimization Method for Loading Pattern Search}
+    \field{volume}{94}
+    \list{location}{1}{%
+      {Reno, NV}%
+    }
+    \field{year}{2006}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Castillo:2007}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CA}{%
+         family={Castillo},
+         familyi={C\bibinitperiod},
+         given={Alejandro},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=OJJ}{%
+         family={Ortiz},
+         familyi={O\bibinitperiod},
+         given={Juan\bibnamedelima Jos{\'e}},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MJL}{%
+         family={Montes},
+         familyi={M\bibinitperiod},
+         given={Jos{\'e}\bibnamedelima Luis},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=PR}{%
+         family={Perusqu{\'\i}a},
+         familyi={P\bibinitperiod},
+         given={Ra{\'u}l},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; BWR}
+    \strng{namehash}{CAOJJMJL+1}
+    \strng{fullhash}{CAOJJMJLPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{207\bibrangedash 212}
+    \field{title}{Fuel loading and control rod patterns optimization in a {BWR}
+  using tabu search}
+    \field{volume}{34}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Francois:2007}{article}{}
+    \name{author}{4}{}{%
+      {{hash=FJL}{%
+         family={Fran{\c c}ois},
+         familyi={F\bibinitperiod},
+         given={J.\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=MDCC}{%
+         family={Mart{\'\i}n Del\bibnamedelima Campo},
+         familyi={M\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MLB}{%
+         family={Morales},
+         familyi={M\bibinitperiod},
+         given={L.\bibnamedelima B.},
+         giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=PMA}{%
+         family={Palomera},
+         familyi={P\bibinitperiod},
+         given={M.\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; BWR}
+    \strng{namehash}{FJLMDCCMLB+1}
+    \strng{fullhash}{FJLMDCCMLBPMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{367 \bibrangedash  377}
+    \field{title}{Development of a Scatter Search Optimization Algorithm for
+  Boiling Water Reactor Fuel Lattice Design}
+    \field{volume}{155}
+    \field{journaltitle}{Nucl. Sci. and Eng.}
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Hadavi:2007}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HSMH}{%
+         family={Hadavi},
+         familyi={H\bibinitperiod},
+         given={S.\bibnamedelima Mohammad\bibnamedelima Hadi},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  H\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{HSMH1}
+    \strng{fullhash}{HSMH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1016/j.anucene.2007.08.011
+    \endverb
+    \field{number}{4}
+    \field{pages}{601\bibrangedash 609}
+    \field{title}{Risk-Based, genetic algorithm approach to optimize outage
+  maintenance schedule}
+    \field{volume}{35}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Hernandez:2007}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=HH}{%
+         family={Hernandez},
+         familyi={H\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=MGI}{%
+         family={Maldonado},
+         familyi={M\bibinitperiod},
+         given={G.\bibnamedelima I.},
+         giveni={G\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization; BWR}
+    \strng{namehash}{HHMGI1}
+    \strng{fullhash}{HHMGI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{771 \bibrangedash  773}
+    \field{title}{Application of Simulated Annealing Optimization to Recycle
+  Minor Actinides in a {BWR} Lattice}
+    \field{volume}{96}
+    \list{location}{1}{%
+      {Boston, MA}%
+    }
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Keller:2007}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=KPM}{%
+         family={Keller},
+         familyi={K\bibinitperiod},
+         given={Paul\bibnamedelima M.},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=RKR}{%
+         family={Rempe},
+         familyi={R\bibinitperiod},
+         given={K.\bibnamedelima R.},
+         giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=AG}{%
+         family={Anton},
+         familyi={A\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=EJL}{%
+         family={Eller},
+         familyi={E\bibinitperiod},
+         given={J.\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=JLC}{%
+         family={James},
+         familyi={J\bibinitperiod},
+         given={L.\bibnamedelima C.},
+         giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{KPMRKRAG+1}
+    \strng{fullhash}{KPMRKRAGEJLJLC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{618 \bibrangedash  619}
+    \field{title}{Development of a Parallelized Incore Optimization Tool
+  Utilizing Multiobjective Genetic Algorithms and a Licensed Nodal Reactor
+  Simulator}
+    \field{volume}{96}
+    \list{location}{1}{%
+      {Boston, MA}%
+    }
+    \field{year}{2007}
+  \endentry
+
+  \entry{Kim:2007}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=KY}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CKJ}{%
+         family={Chang},
+         familyi={C\bibinitperiod},
+         given={K.\bibnamedelima J.},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=NJM}{%
+         family={Noh},
+         familyi={N\bibinitperiod},
+         given={J.\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization; VHTR}
+    \strng{namehash}{KYCKJNJM1}
+    \strng{fullhash}{KYCKJNJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{406 \bibrangedash  407}
+    \field{title}{Optimization of Axial Fuel Shuffling Strategy in a Block-Type
+  {VHTR}}
+    \field{volume}{97}
+    \list{location}{1}{%
+      {Washington, DC}%
+    }
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Lima:2007}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=LAMMd}{%
+         family={Lima},
+         familyi={L\bibinitperiod},
+         given={Alan M. M.\bibnamedelima de},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod
+  M\bibinitperiod\bibinitdelim d\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Schirru},
+         familyi={S\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SFCd}{%
+         family={Silva},
+         familyi={S\bibinitperiod},
+         given={Fernando C.\bibnamedelima da},
+         giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  d\bibinitperiod},
+      }}%
+      {{hash=MMD}{%
+         family={Machado},
+         familyi={M\bibinitperiod},
+         given={Marcelo\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=MJACC}{%
+         family={Medeiros},
+         familyi={M\bibinitperiod},
+         given={Jos{\'e} Antonio Carlos\bibnamedelima Canedo},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod
+  C\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {International Nuclear Atlantic Conference}%
+    }
+    \list{publisher}{1}{%
+      {Associacao Brasileira de Energia Nuclear}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{LAMMdSRSFCd+1}
+    \strng{fullhash}{LAMMdSRSFCdMMDMJACC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proc. of the INAC 2007 Int. Nucl. Atlantic Conf.}
+    \field{number}{44}
+    \field{title}{Study of heuristics in ant system for nuclear reload
+  optimization}
+    \field{volume}{39}
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Park:2007}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=PTK}{%
+         family={Park},
+         familyi={P\bibinitperiod},
+         given={T.\bibnamedelima K.},
+         giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=LHC}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={H.\bibnamedelima C.},
+         giveni={H\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=JHK}{%
+         family={Joo},
+         familyi={J\bibinitperiod},
+         given={H.\bibnamedelima K.},
+         giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=KCH}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={C.\bibnamedelima H.},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{PTKLHCJHK+1}
+    \strng{fullhash}{PTKLHCJHKKCH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{578 \bibrangedash  579}
+    \field{title}{Improvement of Screening Efficiency in Loading Pattern
+  Optimization by Simulated Annealing}
+    \field{volume}{96}
+    \list{location}{1}{%
+      {Boston, MA}%
+    }
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Alim:2008}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AF}{%
+         family={Alim},
+         familyi={A\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=IK}{%
+         family={Ivanov},
+         familyi={I\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=LSH}{%
+         family={Levine},
+         familyi={L\bibinitperiod},
+         given={S.\bibnamedelima H.},
+         giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{AFIKLSH1}
+    \strng{fullhash}{AFIKLSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{121 \bibrangedash  131}
+    \field{title}{New genetic algorithms ({GA}) to optimize {PWR} reactors:
+  Part {III}: The Haling power depletion method for in-core fuel management
+  analysis}
+    \field{volume}{35}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2008}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Fadaei:2008}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FAH}{%
+         family={Fadaei},
+         familyi={F\bibinitperiod},
+         given={A.\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Setayeshi},
+         familyi={S\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{FAHSS1}
+    \strng{fullhash}{FAHSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{10}
+    \field{pages}{1968 \bibrangedash  1973}
+    \field{title}{{LONSA} as a tool for loading pattern optimization for
+  {VVER}-1000 using synergy of a neural network and simulated annealing}
+    \field{volume}{35}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Lima:2008}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LAMMd}{%
+         family={Lima},
+         familyi={L\bibinitperiod},
+         given={Alan M. M.\bibnamedelima de},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod
+  M\bibinitperiod\bibinitdelim d\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Schirru},
+         familyi={S\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SFCd}{%
+         family={Silva},
+         familyi={S\bibinitperiod},
+         given={Fernando Carvalho\bibnamedelima da},
+         giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim
+  d\bibinitperiod},
+      }}%
+      {{hash=MJACC}{%
+         family={Medeiros},
+         familyi={M\bibinitperiod},
+         given={Jos{\'e} Antonio Carlos\bibnamedelima Canedo},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod
+  C\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{LAMMdSRSFCd+2}
+    \strng{fullhash}{LAMMdSRSFCdMJACC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{9}
+    \field{pages}{1606 \bibrangedash  1612}
+    \field{title}{A nuclear reactor core fuel reload optimization using ant
+  colony connective networks}
+    \field{volume}{35}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Park:2008}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=PTK}{%
+         family={Park},
+         familyi={P\bibinitperiod},
+         given={T.\bibnamedelima K.},
+         giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=JHK}{%
+         family={Joo},
+         familyi={J\bibinitperiod},
+         given={H.\bibnamedelima K.},
+         giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=KCH}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={C.\bibnamedelima H.},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{PTKJHKKCH1}
+    \strng{fullhash}{PTKJHKKCH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{47 \bibrangedash  48}
+    \field{title}{Multi-Objective Fuel Loading Optimization Employing
+  Discontinuous Penalty Functions in Simulated Annealing}
+    \field{volume}{98}
+    \list{location}{1}{%
+      {Anaheim, CA}%
+    }
+    \field{year}{2008}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{De-Moura-Meneses:2009}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DMMAA}{%
+         family={De\bibnamedelima Moura\bibnamedelima Meneses},
+         familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+         given={A.\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=MMD}{%
+         family={Machado},
+         familyi={M\bibinitperiod},
+         given={Marcelo\bibnamedelima D.},
+         giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Schirru},
+         familyi={S\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{DMMAAMMDSR1}
+    \strng{fullhash}{DMMAAMMDSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{319 \bibrangedash  326}
+    \field{title}{Particle Swarm Optimization applied to the nuclear reload
+  problem of a Pressurized Water Reactor}
+    \field{volume}{51}
+    \field{journaltitle}{Progress in Nucl. Energy}
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Waintraub:2009}{article}{}
+    \name{author}{3}{}{%
+      {{hash=WM}{%
+         family={Waintraub},
+         familyi={W\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Schirru},
+         familyi={S\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PCMNA}{%
+         family={Pereira},
+         familyi={P\bibinitperiod},
+         given={C.\bibnamedelima M. N.\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod
+  N\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{WMSRPCMNA1}
+    \strng{fullhash}{WMSRPCMNA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{6}
+    \field{pages}{680 \bibrangedash  688}
+    \field{title}{Multiprocessor modeling of parallel Particle Swarm
+  Optimization applied to nuclear engineering problems}
+    \field{volume}{51}
+    \field{journaltitle}{Progress in Nucl. Energy}
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Zerovnik:2009}{article}{}
+    \name{author}{3}{}{%
+      {{hash=uG}{%
+         family={\u{Z}erovnik},
+         familyi={u\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Snoj},
+         familyi={S\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Ravnik},
+         familyi={R\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{uGSLRM1}
+    \strng{fullhash}{uGSLRM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{183\bibrangedash 190}
+    \field{title}{Optimization of spent nuclear fuel filling in canisters for
+  deep repository}
+    \field{volume}{163}
+    \field{journaltitle}{Nucl. Sci. and Eng.}
+    \field{year}{2009}
+  \endentry
+
+  \entry{De-Moura-Meneses:2010}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DMMAA}{%
+         family={De\bibnamedelima Moura\bibnamedelima Meneses},
+         familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+         given={A.\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=GLM}{%
+         family={Gambardella},
+         familyi={G\bibinitperiod},
+         given={L.\bibnamedelima M.},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Schirru},
+         familyi={S\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{DMMAAGLMSR1}
+    \strng{fullhash}{DMMAAGLMSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{339 \bibrangedash  351}
+    \field{title}{A new approach for heuristics-guided search in the In-Core
+  Fuel Management Optimization}
+    \field{volume}{52}
+    \field{journaltitle}{Progress in Nucl. Energy}
+    \field{year}{2010}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Ishida:2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=IS}{%
+         family={Ishida},
+         familyi={I\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Sekimoto},
+         familyi={S\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; ADS}
+    \strng{namehash}{ISSH1}
+    \strng{fullhash}{ISSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{10}
+    \field{pages}{3645 \bibrangedash  3653}
+    \field{title}{Finding the best fuel assemblies shuffling scheme of {ADS}
+  for {MA} transmutation using Dynamic Programming}
+    \field{volume}{240}
+    \field{journaltitle}{Nucl. Eng. and Design}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Shaukat:2010}{article}{}
+    \name{author}{5}{}{%
+      {{hash=SN}{%
+         family={Shaukat},
+         familyi={S\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=ASUI}{%
+         family={Ahmad},
+         familyi={A\bibinitperiod},
+         given={S.-U.-I.},
+         giveni={S\bibinitperiod-U\bibinitperiod-I\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Majeed},
+         familyi={M\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AN}{%
+         family={Ahmad},
+         familyi={A\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Mohsin},
+         familyi={M\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{SNASUIMA+1}
+    \strng{fullhash}{SNASUIMAANMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{10}
+    \field{pages}{2831 \bibrangedash  2835}
+    \field{title}{Optimization of core reload pattern for {PARR}-1 using
+  evolutionary techniques}
+    \field{volume}{240}
+    \field{journaltitle}{Nucl. Eng. and Design}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Zio:2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=ZE}{%
+         family={Zio},
+         familyi={Z\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Bazzo},
+         familyi={B\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{ZEBR1}
+    \strng{fullhash}{ZEBR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{6}
+    \field{pages}{798 \bibrangedash  812}
+    \field{title}{Multiobjective optimization of the inspection intervals of a
+  nuclear safety system: A clustering-based framework for reducing the Pareto
+  Front}
+    \field{volume}{37}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2010}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Hays:2011}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HR}{%
+         family={Hays},
+         familyi={H\bibinitperiod},
+         given={Ross},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TPJ}{%
+         family={Turinsky},
+         familyi={T\bibinitperiod},
+         given={Paul\bibnamedelima J.},
+         giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; BWR}
+    \strng{namehash}{HRTPJ1}
+    \strng{fullhash}{HRTPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The process of finding optimized fuel reload patterns for boiling water
+  reactors is complicated by a number of factors including the large number of
+  fuel assemblies involved, the three-dimensional neutronic and
+  thermal-hydraulic variations, and the interplay of coolant flow rate with
+  control rod programming. The FORMOSA-B code was developed to provide an
+  automated method for finding fuel loading patterns, control rod programs and
+  coolant flow rate schedules to minimize certain quantitative metrics of core
+  performance while satisfying given operational constraints. One drawback of
+  this code has been the long runtimes required for a complete cycle
+  optimization on a desktop workstation (oftentimes several days or more). To
+  address this shortcoming, a parallel simulated annealing algorithm has been
+  added to the FORMOSA-B code, so that the runtimes may be greatly reduced by
+  using a multiprocessor computer cluster. Tests of the algorithm on a sample
+  problem indicate that it is capable of parallel efficiencies exceeding 80%
+  when using four processors.%
+    }
+    \verb{doi}
+    \verb http://dx.doi.org/10.1016/j.pnucene.2010.09.002
+    \endverb
+    \field{number}{6}
+    \field{pages}{600\bibrangedash 606}
+    \field{title}{{BWR} in-core fuel management optimization using parallel
+  simulated annealing in {FORMOSA-B}}
+    \field{volume}{53}
+    \field{journaltitle}{Progress in Nucl. Energy}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Kropaczek:2011}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KDJ}{%
+         family={Kropaczek},
+         familyi={K\bibinitperiod},
+         given={David\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; Fuel Cycle Analysis}
+    \strng{namehash}{KDJ1}
+    \strng{fullhash}{KDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{6}
+    \field{pages}{554 \bibrangedash  561}
+    \field{title}{{COPERNICUS}: A multi-cycle optimization code for nuclear
+  fuel based on parallel simulated annealing with mixing of states}
+    \field{volume}{53}
+    \field{journaltitle}{Progress in Nucl. Energy}
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Norouzi:2011}{article}{}
+    \name{author}{4}{}{%
+      {{hash=NA}{%
+         family={Norouzi},
+         familyi={N\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ZA}{%
+         family={Zolfaghari},
+         familyi={Z\bibinitperiod},
+         given={Ahmad},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MAH}{%
+         family={Minuchehr},
+         familyi={M\bibinitperiod},
+         given={A.\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=KF}{%
+         family={Khoshahval},
+         familyi={K\bibinitperiod},
+         given={Farrokh},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{NAZAMAH+1}
+    \strng{fullhash}{NAZAMAHKF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{5}
+    \field{pages}{449 \bibrangedash  456}
+    \field{title}{An enhanced integer coded genetic algorithm to optimize
+  {PWR}s}
+    \field{volume}{53}
+    \field{journaltitle}{Progress in Nucl. Energy}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Oliveira:2011}{article}{}
+    \name{author}{2}{}{%
+      {{hash=dOIMS}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Oliveira},
+         familyi={O\bibinitperiod},
+         given={Ion{\'a} Maghali\bibnamedelima Santos},
+         giveni={I\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Schirru},
+         familyi={S\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{OIMSdSR1}
+    \strng{fullhash}{OIMSdSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{5}
+    \field{pages}{1039\bibrangedash 1045}
+    \field{title}{Swarm intelligence of artificial bees applied to In-Core Fuel
+  Management Optimization}
+    \field{volume}{38}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Ortiz-Servin:2011}{article}{}
+    \name{author}{3}{}{%
+      {{hash=OSJJ}{%
+         family={Ortiz-Servin},
+         familyi={O\bibinitperiod-S\bibinitperiod},
+         given={J.\bibnamedelima J.},
+         giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=CJA}{%
+         family={Castillo},
+         familyi={C\bibinitperiod},
+         given={J.\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=PDA}{%
+         family={Pelta},
+         familyi={P\bibinitperiod},
+         given={D.\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; BWR}
+    \strng{namehash}{OSJJCJAPDA1}
+    \strng{fullhash}{OSJJCJAPDA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{9}
+    \field{pages}{3729 \bibrangedash  3735}
+    \field{title}{{BWR} fuel cycle optimization using neural networks}
+    \field{volume}{241}
+    \field{journaltitle}{Nucl. Eng. and Design}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Silva:2011}{article}{}
+    \name{author}{2}{}{%
+      {{hash=dSMH}{%
+         prefix={da},
+         prefixi={d\bibinitperiod},
+         family={Silva},
+         familyi={S\bibinitperiod},
+         given={M.\bibnamedelima H.},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Schirru},
+         familyi={S\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization, PWR}
+    \strng{namehash}{SMHdSR1}
+    \strng{fullhash}{SMHdSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2 - 3}
+    \field{pages}{610 \bibrangedash  614}
+    \field{title}{Optimization of nuclear reactor core fuel reload using the
+  new Quantum {PBIL}}
+    \field{volume}{38}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Silva:2011a}{article}{}
+    \name{author}{3}{}{%
+      {{hash=dSMH}{%
+         prefix={da},
+         prefixi={d\bibinitperiod},
+         family={Silva},
+         familyi={S\bibinitperiod},
+         given={M.\bibnamedelima H.},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Schirru},
+         familyi={S\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=dLAMM}{%
+         prefix={de},
+         prefixi={d\bibinitperiod},
+         family={Lima},
+         familyi={L\bibinitperiod},
+         given={Alan M.\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{SMHdSRLAMMd1}
+    \strng{fullhash}{SMHdSRLAMMd1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{80 \bibrangedash  85}
+    \field{title}{{QACOA}lpha applied to the nuclear reactor core fuel reload
+  optimization}
+    \field{volume}{53}
+    \field{journaltitle}{Progress in Nucl. Energy}
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Tsvetkov:2011}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=TPV}{%
+         family={Tsvetkov},
+         familyi={T\bibinitperiod},
+         given={Pavel\bibnamedelima V.},
+         giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=LITG}{%
+         family={Lewis\bibnamedelima III},
+         familyi={L\bibinitperiod\bibinitdelim I\bibinitperiod},
+         given={T.\bibnamedelima G.},
+         giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=LSK}{%
+         family={Lakshmipathy},
+         familyi={L\bibinitperiod},
+         given={S.\bibnamedelima K.},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=OAM}{%
+         family={Ougouag},
+         familyi={O\bibinitperiod},
+         given={A.\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=VF}{%
+         family={Venneri},
+         familyi={V\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization; VHTR}
+    \strng{namehash}{TPVLITGLSK+1}
+    \strng{fullhash}{TPVLITGLSKOAMVF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{688 \bibrangedash  689}
+    \field{title}{Performance-Constrained Reload Pattern Searches for Deep Burn
+  {HTR} Hexagonal Block Systems}
+    \field{volume}{104}
+    \list{location}{1}{%
+      {Hollywood, FL}%
+    }
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Yadav:2011}{article}{}
+    \name{author}{2}{}{%
+      {{hash=YRDS}{%
+         family={Yadav},
+         familyi={Y\bibinitperiod},
+         given={R.\bibnamedelima D.\bibnamedelima S.},
+         giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+      {{hash=GHP}{%
+         family={Gupta},
+         familyi={G\bibinitperiod},
+         given={H.\bibnamedelima P.},
+         giveni={H\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{YRDSGHP1}
+    \strng{fullhash}{YRDSGHP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{9}
+    \field{pages}{2086\bibrangedash 2095}
+    \field{title}{Optimization studies of fuel loading pattern for a typical
+  Pressurized Water Reactor ({PWR}) using particle swarm method}
+    \field{volume}{38}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Carlos:2012}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CS}{%
+         family={Carlos},
+         familyi={C\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sanchez},
+         familyi={S\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MS}{%
+         family={Martorell},
+         familyi={M\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=VJF}{%
+         family={Villanueva},
+         familyi={V\bibinitperiod},
+         given={J.-F.},
+         giveni={J\bibinitperiod-F\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{CSSAMS+1}
+    \strng{fullhash}{CSSAMSVJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{12 \bibrangedash  18}
+    \field{title}{Particle Swarm Optimization of safety components and systems
+  of nuclear power plants under uncertain maintenance planning}
+    \field{volume}{50}
+    \field{journaltitle}{Advances in Eng. Software}
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Hays:2012}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=HRD}{%
+         family={Hays},
+         familyi={H\bibinitperiod},
+         given={Ross\bibnamedelima Daniel},
+         giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; Fuel Cycle Analysis}
+    \strng{namehash}{HRD1}
+    \strng{fullhash}{HRD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Stochastic Optimization for Nuclear Facility Deployment
+  Scenarios}
+    \verb{url}
+    \verb repository.lib.ncsu.edu/ir/bitstream/1840.16/8085/1/etd.pdf
+    \endverb
+    \list{location}{1}{%
+      {Raleigh, NC}%
+    }
+    \list{institution}{1}{%
+      {North Carolina State University}%
+    }
+    \field{type}{Ph.D. Dissertation}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Lin:2012}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LC}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Chaung},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LBF}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Bo-Feng},
+         giveni={B\bibinitperiod-F\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{LCLBF1}
+    \strng{fullhash}{LCLBF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{0}
+    \field{pages}{91\bibrangedash 98}
+    \field{title}{Automatic pressurized water reactor loading pattern design
+  using ant colony algorithms}
+    \field{volume}{43}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Liu:2012}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LS}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Shichang},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Cai},
+         familyi={C\bibinitperiod},
+         given={Jiejin},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{LSCJ1}
+    \strng{fullhash}{LSCJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    An in-core fuel reload design tool using the improved pivot particle swarm
+  method was developed for the loading pattern optimization problems in a
+  typical PWR, such as Daya Bay Nuclear Power Plant. The discrete,
+  multi-objective improved pivot particle swarm optimization, was integrated
+  with the in-core physics calculation code `donjon' based on finite element
+  method, and assemblies' group constant calculation code `dragon', composing
+  the optimization code for fuel arrangement. The codes of both `donjon' and
+  `dragon' were programmed by Institute of Nuclear Eng. of Polytechnique
+  Montr{\'e}al, Canada. This optimization code was aiming to maximize the core
+  effective multiplication factor (Keff), while keeping the local power peaking
+  factor (Ppf) lower than a predetermined value to maintain fuel integrity. At
+  last, the code was applied to the first cycle loading of Daya Bay Nuclear
+  Power Plant. The result showed that, compared with the reference loading
+  pattern design, the core effective multiplication factor increased by 9.6%,
+  while the power peaking factor decreased by 0.6%, meeting the safety
+  requirement.%
+    }
+    \verb{doi}
+    \verb http://dx.doi.org/10.1016/j.anucene.2012.08.007
+    \endverb
+    \field{number}{0}
+    \field{pages}{117\bibrangedash 125}
+    \field{title}{Studies of fuel loading pattern optimization for a typical
+  pressurized water reactor ({PWR}) using improved pivot particle swarm method}
+    \field{volume}{50}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Aghaie:2013}{article}{}
+    \name{author}{5}{}{%
+      {{hash=AM}{%
+         family={Aghaie},
+         familyi={A\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Nazari},
+         familyi={N\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=ZA}{%
+         family={Zolfaghari},
+         familyi={Z\bibinitperiod},
+         given={Ahmad},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Minuchehr},
+         familyi={M\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Shirani},
+         familyi={S\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{AMNTZA+1}
+    \strng{fullhash}{AMNTZAMASA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{1 \bibrangedash  15}
+    \field{title}{Investigation of {PWR} core optimization using harmony search
+  algorithms}
+    \field{volume}{57}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Kropaczek:2013}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=KDJ}{%
+         family={Kropaczek},
+         familyi={K\bibinitperiod},
+         given={David\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Asgari},
+         familyi={A\bibinitperiod},
+         given={Mehdi},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Mahgerefteh},
+         familyi={M\bibinitperiod},
+         given={Moussa},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{KDJAMMM1}
+    \strng{fullhash}{KDJAMMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{729\bibrangedash 731}
+    \field{title}{Method for Addressing Hybrid-equilibrium Loading Constraints
+  within the {COPERNICUS} Multi-cycle Nuclear Fuel Optimization Code}
+    \field{volume}{108}
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Levine:2013}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=LS}{%
+         family={Levine},
+         familyi={L\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BT}{%
+         family={Blyth},
+         familyi={B\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=IK}{%
+         family={Ivanov},
+         familyi={I\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{LSBTIK1}
+    \strng{fullhash}{LSBTIK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{716 \bibrangedash  719}
+    \field{title}{Optimizing {PWR} Low Leakage Cores with Genetic Algorithms
+  and Other Techniques}
+    \field{volume}{108}
+    \list{location}{1}{%
+      {Atlanta, GA}%
+    }
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Wang:2013}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WCD}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Cheng-Der},
+         giveni={C\bibinitperiod-D\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Chaung},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; BWR}
+    \strng{namehash}{WCDLC1}
+    \strng{fullhash}{WCDLC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{0}
+    \field{pages}{273\bibrangedash 279}
+    \field{title}{Automatic boiling water reactor control rod pattern design
+  using particle swarm optimization algorithm and local search}
+    \field{volume}{255}
+    \field{journaltitle}{Nucl. Eng. and Design}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Arshi:2014}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ASS}{%
+         family={Arshi},
+         familyi={A\bibinitperiod},
+         given={S.\bibnamedelima Safaei},
+         giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=ZA}{%
+         family={Zolfaghari},
+         familyi={Z\bibinitperiod},
+         given={Ahmad},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MSM}{%
+         family={Mirvakili},
+         familyi={M\bibinitperiod},
+         given={S.\bibnamedelima M.},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{ASSZAMSM1}
+    \strng{fullhash}{ASSZAMSM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{10}
+    \field{pages}{2622 \bibrangedash  2628}
+    \field{title}{A multi-objective shuffled frog leaping algorithm for in-core
+  fuel management optimization}
+    \field{volume}{185}
+    \field{journaltitle}{Computer Physics Communications}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Carlsen:2014}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=CRW}{%
+         family={Carlsen},
+         familyi={C\bibinitperiod},
+         given={Robert\bibnamedelima W.},
+         giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=GMJ}{%
+         family={Gidden},
+         familyi={G\bibinitperiod},
+         given={Matthew\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=WPP}{%
+         family={Wilson},
+         familyi={W\bibinitperiod},
+         given={Paul\bibnamedelima P.H.},
+         giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization; Fuel Cycle Analysis}
+    \strng{namehash}{CRWGMJWPP1}
+    \strng{fullhash}{CRWGMJWPP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{pages}{241\bibrangedash 244}
+    \field{title}{Deployment Optimization with the {CYCLUS} Fuel Cycle
+  Simulator}
+    \field{volume}{111}
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Hedayat:2014}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HA}{%
+         family={Hedayat},
+         familyi={H\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{HA1}
+    \strng{fullhash}{HA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{191 \bibrangedash  205}
+    \field{title}{Developing a practical optimization of the refueling program
+  for ordinary research reactors using a modified simulated annealing method}
+    \field{volume}{76}
+    \field{journaltitle}{Progress in Nucl. Energy}
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Khoshahval:2014}{article}{}
+    \name{author}{3}{}{%
+      {{hash=KF}{%
+         family={Khoshahval},
+         familyi={K\bibinitperiod},
+         given={Farrokh},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=ZA}{%
+         family={Zolfaghari},
+         familyi={Z\bibinitperiod},
+         given={Ahmad},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MH}{%
+         family={Minuchehr},
+         familyi={M\bibinitperiod},
+         given={Hamid},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{KFZAMH1}
+    \strng{fullhash}{KFZAMH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{0}
+    \field{pages}{294\bibrangedash 303}
+    \field{title}{A new method for multi-objective in core fuel management
+  optimization using biogeography based algorithm}
+    \field{volume}{73}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Khoshahval:2014a}{article}{}
+    \name{author}{4}{}{%
+      {{hash=KF}{%
+         family={Khoshahval},
+         familyi={K\bibinitperiod},
+         given={Farrokh},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=ZA}{%
+         family={Zolfaghari},
+         familyi={Z\bibinitperiod},
+         given={Ahmad},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MH}{%
+         family={Minuchehr},
+         familyi={M\bibinitperiod},
+         given={Hamid},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=AMR}{%
+         family={Abbasi},
+         familyi={A\bibinitperiod},
+         given={M.\bibnamedelima R.},
+         giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{KFZAMH+1}
+    \strng{fullhash}{KFZAMHAMR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{112 \bibrangedash  121}
+    \field{title}{A new hybrid method for multi-objective fuel management
+  optimization using parallel {PSO-SA}}
+    \field{volume}{76}
+    \field{journaltitle}{Progress in Nucl. Energy}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Lin:2014}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LC}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Chaung},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CYH}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Ying-Hsiu},
+         giveni={Y\bibinitperiod-H\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{LCCYH1}
+    \strng{fullhash}{LCCYH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1016/j.anucene.2014.04.020
+    \endverb
+    \field{number}{0}
+    \field{pages}{388\bibrangedash 398}
+    \field{title}{The max-min ant system and tabu search for pressurized water
+  reactor loading pattern design}
+    \field{volume}{71}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Park:2014}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PTK}{%
+         family={Park},
+         familyi={P\bibinitperiod},
+         given={T.\bibnamedelima K.},
+         giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=JHG}{%
+         family={Joo},
+         familyi={J\bibinitperiod},
+         given={H.\bibnamedelima G.},
+         giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=KCH}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={C.\bibnamedelima H.},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{PTKJHGKCH1}
+    \strng{fullhash}{PTKJHGKCH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{226 \bibrangedash  239}
+    \field{title}{Multicycle Fuel Loading Pattern Optimization by
+  Multiobjective Simulated Annealing Employing Adaptively Constrained
+  Discontinuous Penalty Function}
+    \field{volume}{176}
+    \field{journaltitle}{Nucl. Sci. and Eng.}
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Silva:2014}{article}{}
+    \name{author}{2}{}{%
+      {{hash=dSMH}{%
+         prefix={da},
+         prefixi={d\bibinitperiod},
+         family={Silva},
+         familyi={S\bibinitperiod},
+         given={M.\bibnamedelima H.},
+         giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Schirru},
+         familyi={S\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{SMHdSR1}
+    \strng{fullhash}{SMHdSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{103 \bibrangedash  109}
+    \field{title}{A self-adaptive quantum {PBIL} method for the nuclear reload
+  optimization}
+    \field{volume}{74}
+    \field{journaltitle}{Progress in Nucl. Energy}
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Zameer:2014}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ZA}{%
+         family={Zameer},
+         familyi={Z\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MSM}{%
+         family={Mirza},
+         familyi={M\bibinitperiod},
+         given={S.\bibnamedelima M.},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MNM}{%
+         family={Mirza},
+         familyi={M\bibinitperiod},
+         given={N.\bibnamedelima M.},
+         giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{ZAMSMMNM1}
+    \strng{fullhash}{ZAMSMMNM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{122 \bibrangedash  131}
+    \field{title}{Core loading pattern optimization of a typical two loop 300
+  Mwe {PWR} using Simulated Annealing ({SA}), novel crossover Genetic
+  Algorithms ({GA}) and hybrid {GA}({SA}) schemes}
+    \field{volume}{65}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Camara-Augusto:2015}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CAJP}{%
+         family={C{\^a}mara\bibnamedelima Augusto},
+         familyi={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+         given={J.\bibnamedelima P.},
+         giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=SNAD}{%
+         family={Santos\bibnamedelima Nicolau},
+         familyi={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={A.\bibnamedelima D.},
+         giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Schirru},
+         familyi={S\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{CAJPSNADSR1}
+    \strng{fullhash}{CAJPSNADSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{191 \bibrangedash  196}
+    \field{title}{{PSO} with Dynamic Topology and Random Keys method applied to
+  Nuclear Reactor Reload}
+    \field{volume}{83}
+    \field{journaltitle}{Progress in Nucl. Energy}
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{De-Moura-Meneses:2015}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DMMAA}{%
+         family={De\bibnamedelima Moura\bibnamedelima Meneses},
+         familyi={D\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  M\bibinitperiod},
+         given={A.\bibnamedelima A.},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Schirru},
+         familyi={S\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{DMMAASR1}
+    \strng{fullhash}{DMMAASR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{326 \bibrangedash  335}
+    \field{title}{A cross-entropy method applied to the In-core fuel management
+  optimization of a Pressurized Water Reactor}
+    \field{volume}{83}
+    \field{journaltitle}{Progress in Nucl. Energy}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Hill:2015}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HNJ}{%
+         family={Hill},
+         familyi={H\bibinitperiod},
+         given={Natasha\bibnamedelima J.},
+         giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=PGT}{%
+         family={Parks},
+         familyi={P\bibinitperiod},
+         given={Geoffrey\bibnamedelima T.},
+         giveni={G\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{HNJPGT1}
+    \strng{fullhash}{HNJPGT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb http://dx.doi.org/10.1016/j.anucene.2014.07.051
+    \endverb
+    \field{number}{0}
+    \field{pages}{64\bibrangedash 71}
+    \field{title}{Pressurized water reactor in-core nuclear fuel management by
+  tabu search}
+    \field{volume}{75}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Ottinger:2015}{article}{}
+    \name{author}{2}{}{%
+      {{hash=OKE}{%
+         family={Ottinger},
+         familyi={O\bibinitperiod},
+         given={K.\bibnamedelima E.},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=MGI}{%
+         family={Maldonado},
+         familyi={M\bibinitperiod},
+         given={G.\bibnamedelima I.},
+         giveni={G\bibinitperiod\bibinitdelim I\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; BWR}
+    \strng{namehash}{OKEMGI1}
+    \strng{fullhash}{OKEMGI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{236 \bibrangedash  243}
+    \field{title}{{BWROPT}: A multi-cycle {BWR} fuel cycle optimization code}
+    \field{volume}{291}
+    \field{journaltitle}{Nucl. Eng. and Design}
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Park:2015}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=PH}{%
+         family={Park},
+         familyi={P\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=JHG}{%
+         family={Joo},
+         familyi={J\bibinitperiod},
+         given={H.\bibnamedelima G.},
+         giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{PHJHG1}
+    \strng{fullhash}{PHJHG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{number}{1}
+    \field{pages}{1232 \bibrangedash  1235}
+    \field{title}{The Optimization of Subgroup Levels with the Simulated
+  Annealing Method}
+    \field{volume}{113}
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Poursalehi:2015}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PN}{%
+         family={Poursalehi},
+         familyi={P\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=ZA}{%
+         family={Zolfaghari},
+         familyi={Z\bibinitperiod},
+         given={Ahmad},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Minuchehr},
+         familyi={M\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; PWR}
+    \strng{namehash}{PNZAMA1}
+    \strng{fullhash}{PNZAMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{263 \bibrangedash  275}
+    \field{title}{A novel optimization method, Effective Discrete Firefly
+  Algorithm, for fuel reload design of nuclear reactors}
+    \field{volume}{81}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Su:2015}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=SJ}{%
+         family={Su},
+         familyi={S\bibinitperiod},
+         given={Jincheng},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WC}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Changhui},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WS}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Su},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=YH}{%
+         family={Yu},
+         familyi={Y\bibinitperiod},
+         given={Hui},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CY}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Yixue},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {American Nuclear Society}%
+    }
+    \keyw{Optimization}
+    \strng{namehash}{SJWCWS+1}
+    \strng{fullhash}{SJWCWSYHCY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Trans. of the Amer. Nucl. Soc.}
+    \field{number}{1}
+    \field{pages}{321 \bibrangedash  323}
+    \field{title}{A Hybrid Optimization Method for Loading Pattern Search Used
+  in {COSINE} Package}
+    \field{volume}{113}
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Ayoobian:2016}{article}{}
+    \name{author}{2}{}{%
+      {{hash=AN}{%
+         family={Ayoobian},
+         familyi={A\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Mohsendokht},
+         familyi={M\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization;}
+    \strng{namehash}{ANMM1}
+    \strng{fullhash}{ANMM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{95 \bibrangedash  99}
+    \field{title}{Multi-objective optimization of maintenance programs in
+  nuclear power plants using Genetic Algorithm and Sensitivity Index decision
+  making}
+    \field{volume}{88}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Hou:2016}{article}{}
+    \name{author}{4}{}{%
+      {{hash=HJ}{%
+         family={Hou},
+         familyi={H\bibinitperiod},
+         given={Jason},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=QS}{%
+         family={Qvist},
+         familyi={Q\bibinitperiod},
+         given={Staffan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kellogg},
+         familyi={K\bibinitperiod},
+         given={Roger},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GE}{%
+         family={Greenspan},
+         familyi={G\bibinitperiod},
+         given={Ehud},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization; SFR}
+    \strng{namehash}{HJQSKR+1}
+    \strng{fullhash}{HJQSKRGE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{58 \bibrangedash  74}
+    \field{title}{3{D} in-core fuel management optimization for breed-and-burn
+  reactors}
+    \field{volume}{88}
+    \field{journaltitle}{Progress in Nucl. Energy}
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Schlunz:2016}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SEB}{%
+         family={Schl{\"u}nz},
+         familyi={S\bibinitperiod},
+         given={E.\bibnamedelima B.},
+         giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=BPM}{%
+         family={Bokov},
+         familyi={B\bibinitperiod},
+         given={P.\bibnamedelima M.},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PRH}{%
+         family={Prinsloo},
+         familyi={P\bibinitperiod},
+         given={R.\bibnamedelima H.},
+         giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=VVJH}{%
+         family={Van\bibnamedelima Vuuren},
+         familyi={V\bibinitperiod\bibinitdelim V\bibinitperiod},
+         given={J.\bibnamedelima H.},
+         giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \keyw{Optimization;}
+    \strng{namehash}{SEBBPMPRH+1}
+    \strng{fullhash}{SEBBPMPRHVVJH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{659 \bibrangedash  670}
+    \field{title}{A unified methodology for single- and multiobjective in-core
+  fuel management optimisation based on augmented {C}hebyshev scalarisation and
+  a harmony search algorithm}
+    \field{volume}{87}
+    \field{journaltitle}{Ann. of Nucl. Energy}
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\endsortlist
+\endinput

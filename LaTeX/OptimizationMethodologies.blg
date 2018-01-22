@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: OptimizationMethodologies.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 19039 items from 5000.
+Database file #1: OptimizationMethodologies-blx.bib
+Database file #2: studies.bib
+Biblatex version: 3.3
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 101 entries,
+            6256 wiz_defined-function locations,
+            1820 strings with 28826 characters,
+and the built_in function-call counts, 622625 in all, are:
+= -- 44356
+> -- 12317
+< -- 2988
++ -- 15421
+- -- 4642
+* -- 47603
+:= -- 62965
+add.period$ -- 0
+call.type$ -- 101
+change.case$ -- 0
+chr.to.int$ -- 86
+cite$ -- 200
+duplicate$ -- 63629
+empty$ -- 57520
+format.name$ -- 7456
+if$ -- 128643
+int.to.chr$ -- 0
+int.to.str$ -- 253
+missing$ -- 0
+newline$ -- 3415
+num.names$ -- 4738
+pop$ -- 34551
+preamble$ -- 1
+purify$ -- 2295
+quote$ -- 0
+skip$ -- 19825
+stack$ -- 0
+substring$ -- 77615
+swap$ -- 15644
+text.length$ -- 2436
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 3396
+warning$ -- 0
+while$ -- 7213
+width$ -- 0
+write$ -- 3315
